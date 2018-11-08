@@ -1,4 +1,4 @@
-# React Hook Example
+# React Hooks Example
 
 ![code](images/code.png)
 
