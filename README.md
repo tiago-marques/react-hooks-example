@@ -1,4 +1,4 @@
-# React Hook Example
+# React Hooks Example
 
 [Good quick start](https://blog.bitsrc.io/understanding-hooks-in-react-a-deep-dive-d5d5dc88ecd9)
 
